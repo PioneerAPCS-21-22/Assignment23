@@ -4,9 +4,9 @@ For this assignment you will run a dice simulation where you let the user pick t
 
 ## Specifications
 
-* You need to have at least two classes (e.g. `Runner` and `Simulation` or `Runner`, `Die`, and `Simulation`).
+* You need to have at least two classes (e.g. `Main` and `Simulation` or `Main`, `Die`, and `Simulation`).
 
-* The user should be able to specify how many rolls (Hint: `for` loop).
+* The user should be able to specify how many rolls.
 
 * It should output how many times each value was rolled.
 
